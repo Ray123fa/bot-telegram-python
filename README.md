@@ -10,8 +10,8 @@ Repositori ini berisikan implementasi penggunaan API yang diintegrasikan dengan 
 - Pastikan terlebih dahulu bahwa PC/Laptop Anda terhubung dengan internet dan telah terinstall python.
 - Unduh file zip atau gunakanlah git clone.
 - Buka file config.example.py lalu rename menjadi config.py. Kemudian:
-	[+] Ganti <b><<BOT_APIKEY>></b> dengan APIKEY yang diberikan botfather saat pembuatan bot.
-	[+] Ganti <b><<BINDERBYTE_APIKEY>></b> dengan APIKEY yang diberikan binderbyte setelah pembuatan akun.
+	- Ganti <b><<BOT_APIKEY>></b> dengan APIKEY yang diberikan botfather saat pembuatan bot.
+	- Ganti <b><<BINDERBYTE_APIKEY>></b> dengan APIKEY yang diberikan binderbyte setelah pembuatan akun.
 - Buka terminal dan arahkan ke penyimpanan folder.
 - Ketik pip install -r requirements.txt untuk menginstall library yang digunakan penulis source-code.
 	<blockquote>pip install -r requirements.txt</blockquote>
@@ -22,10 +22,10 @@ Repositori ini berisikan implementasi penggunaan API yang diintegrasikan dengan 
 
 ## Big thanks to
 
-[+] https://github.com/eternnoir/pyTelegramBotAPI
-[+] https://pypi.org
-[+] https://stackoverflow.com
-[+] https://aladhan.com/
-[+] https://binderbyte.co
+- https://github.com/eternnoir/pyTelegramBotAPI
+- https://pypi.org
+- https://stackoverflow.com
+- https://aladhan.com/
+- https://binderbyte.co
 
 Bila terdapat kesalahan maupun error, dapat menghubungi salah satu media sosial yang tertera pada profile.
