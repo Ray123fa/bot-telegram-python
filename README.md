@@ -9,14 +9,21 @@ Repositori ini berisikan implementasi penggunaan API yang diintegrasikan dengan 
 
 - Pastikan terlebih dahulu bahwa PC/Laptop Anda terhubung dengan internet dan telah terinstall python.
 - Unduh file zip atau gunakanlah git clone.
+  ```<language>
+  git clone https://github.com/Ray123fa/bot-telegram-python.git
+  ```
 - Buka file config.example.py lalu rename menjadi config.py. Kemudian:
-	- Ganti <b><<BOT_APIKEY>></b> dengan APIKEY yang diberikan botfather saat pembuatan bot.
-	- Ganti <b><<BINDERBYTE_APIKEY>></b> dengan APIKEY yang diberikan binderbyte setelah pembuatan akun.
+  - Ganti <b><<BOT_APIKEY>></b> dengan APIKEY yang diberikan botfather saat pembuatan bot.
+  - Ganti <b><<BINDERBYTE_APIKEY>></b> dengan APIKEY yang diberikan binderbyte setelah pembuatan akun.
 - Buka terminal dan arahkan ke penyimpanan folder.
 - Ketik pip install -r requirements.txt untuk menginstall library yang digunakan penulis source-code.
-	<blockquote>pip install -r requirements.txt</blockquote>
+  ```<language>
+  pip install -r requirements.txt
+  ```
 - Ketik python bot.py untuk memulai program.
-	<blockquote>python bot.py</blockquote>
+  ```<language>
+  python bot.py
+  ```
 - Start bot telegram.
 - Untuk menonaktifkan program, cukup tekan Ctrl+C.
 
