@@ -35,4 +35,4 @@ Repositori ini berisikan implementasi penggunaan API yang diintegrasikan dengan 
 - https://aladhan.com/
 - https://binderbyte.co
 
-Bila terdapat kesalahan maupun error, dapat menghubungi salah satu media sosial yang tertera pada profile.
+Bila terdapat kesalahan maupun error, silakan ajukan melalui issues.
